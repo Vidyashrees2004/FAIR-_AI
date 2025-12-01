@@ -1,6 +1,8 @@
-%%writefile requirements.txt
 streamlit>=1.28.0
 pandas>=2.0.0
 numpy>=1.21.0
 scikit-learn>=1.0.0
 joblib>=1.2.0
+
+# Download it
+files.download('requirements.txt')
