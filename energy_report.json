@@ -1,0 +1,13 @@
+{
+  "model_training_energy_kg": {
+    "baseline": 0.05,
+    "fair": 0.08,
+    "increase_percent": 60.0
+  },
+  "inference_energy_mg_per_prediction": 1.0,
+  "efficiency_rating": "\u2705 Moderate Efficiency",
+  "environmental_impact": {
+    "trees_to_offset": 0.0016,
+    "car_km_equivalent": 0.184
+  }
+}
